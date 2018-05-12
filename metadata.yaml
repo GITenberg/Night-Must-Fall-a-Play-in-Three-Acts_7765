@@ -1,4 +1,8 @@
 _repo: Night-Must-Fall-a-Play-in-Three-Acts_7765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, Emlyn
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2517
     wikipedia: http://en.wikipedia.org/wiki/Emlyn_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7765#Night-Must-Fall-a-Play-in-Three-Acts
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
